@@ -1,2 +1,2 @@
 # Radar-Basic-Algorithm
-Here are some very basic algorithm used in radar data process, including pulse compression/CFAR/monopulse and so on.
+一些基础的雷达处理算法，包括了脉冲压缩、CA-CFAR恒虚警检测、PD测速、单脉冲测角等等算法
